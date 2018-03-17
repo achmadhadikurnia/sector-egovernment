@@ -11,6 +11,6 @@ class BantenprovSectorEgovernmentSeeder extends Seeder
      */
     public function run()
     {
-         $this->call(BantenprovSectorEgovernmentSeederSectorEgovernment::class);
+        $this->call(BantenprovSectorEgovernmentSeederSectorEgovernment::class);
     }
 }
